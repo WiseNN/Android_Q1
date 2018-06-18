@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MobileDevQuiz1</string>
+    <string name="toast_msg">Hello Quiz 1!!</string>
+</resources>
