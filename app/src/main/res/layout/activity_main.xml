@@ -83,14 +83,15 @@
             android:text="Quiz 1"
 
             />
+
         <Button
+            android:id="@+id/btn_quiz_2"
             android:layout_width="0dp"
-            android:layout_weight="1"
             android:layout_height="match_parent"
             android:layout_marginLeft="5dp"
+            android:layout_weight="1"
             android:padding="0dp"
-            android:text="Quiz 2"
-            />
+            android:text="Quiz 2" />
         <Button
             android:layout_width="0dp"
             android:layout_weight="1"
